@@ -1,8 +1,18 @@
-# Final-Report-of-Regression-Analysis1
+# __서울시립대학교 강의 프로젝트__
 
-I made this report as final report for 'Regression Analysis 1' class.
+서울시립대학교 강의 중 진행한 프로젝트들의 목록입니다.
 
-I predicted passengers of subway line 2 considering climate, the amount of rainfall and case of holiday.
++ 회귀분석1 (2021년 1학기)
+  - 회귀분석을 이용한 지하철 2호선 승차객수 예측
+  - 다중회귀분석을 이용
+  - 평균기온, 강수량, 습도와 공휴일여부를 독립변수로 하여 지하철 2호선 승차객들을 다중회귀분석으로 예측
 
-The procedure and basis are based on linear regression.
++ 회귀분석2 (2021년 2학기)
+  - 로지스틱 회귀분석을 이용한 강수확률 예측
+  - 로지스틱 회귀분석 이용
+  - 평균 기온, 평균 상대습도, 평균 풍속과 같은 기상정보를 이용해 비나 눈이 올 확률을 예측
 
++ 다변량 통계학 (2021년 2학기)
+  - 2021 KBO 타자&투수 데이터 분석
+  - 기초통계량을 활용한 변수들의 성격과 관련 파악
+  - 주성분분석을 이용해 많은 변수들의 관계를 그보다 더 적은 변수들로 표현
